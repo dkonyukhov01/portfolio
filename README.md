@@ -30,7 +30,11 @@
 
 **Технологии:** Power BI, BI-аналитика, визуализация данных, KPI, интерактивные фильтры.
 
+[Посмотреть скриншот дашборда](images/powerbi-branches.png)
+
 ### 2. [Анализ и визуализация данных продаж в Yandex DataLens](https://docs.google.com/document/d/1cjLnetFUdqu_pSI3xVlGCcpNj11Ty4ss/edit?usp=sharing&ouid=100931746456580209218&rtpof=true&sd=true)
+
+![Дашборд даталенс](images/datalens-dashboard.png)
 
 Провел анализ продаж на основе датасета Online Retail Dataset с платформы Kaggle. Подготовил выборку из 2 000 записей и рассчитал выручку по каждой позиции заказа на основе количества товаров и цены за единицу.
 
@@ -38,7 +42,7 @@
 
 **Технологии:** Yandex DataLens, Excel, Kaggle, анализ данных, визуализация данных.
 
-![Посмотреть скриншот дашборда](images/datalens-dashboard.png)
+[Посмотреть скриншот дашборда](images/datalens-dashboard.png)
 
 ### 3. [Анализ продаж и построение дашборда в Excel](materials/excel-sales-dashboard.xlsx)
 
