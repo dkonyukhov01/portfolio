@@ -38,7 +38,7 @@
 
 **Технологии:** Yandex DataLens, Excel, Kaggle, анализ данных, визуализация данных.
 
-[Посмотреть скриншот дашборда](https://drive.google.com/file/d/1ffCo6A2HNy9FNOhEg-FcPSwnoyjShKGk/view?usp=sharing)
+![Посмотреть скриншот дашборда](images/dashboard-datalens.png)
 
 ### 3. [Анализ продаж и построение дашборда в Excel](materials/excel-sales-dashboard.xlsx)
 
