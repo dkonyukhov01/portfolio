@@ -135,13 +135,13 @@
 
 ## Навыки и инструменты
 
-**Анализ данных:** Python, pandas, NumPy, SQL (PostgreSQL), R (базовый уровень), Excel.
+Python, pandas, NumPy, SQL (PostgreSQL), R, Excel.
 
-**BI и визуализация:** Power BI, Yandex DataLens, Loginom, Visiology, Excel, Google Таблицы.
+Power BI, Yandex DataLens, Loginom, Visiology, Excel, Google Таблицы.
 
-**Бизнес- и системный анализ:** UML, BPMN, IDEF0, EPC, FURPS+, моделирование AS-IS.
+UML, BPMN, IDEF0, EPC, FURPS+, моделирование AS-IS.
 
-**Инструменты:** MS Visio, Bizagi, Draw.io, Git, Jira.
+MS Visio, Bizagi, Draw.io, Git, Jira.
 
 ## Контакты
 
