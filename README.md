@@ -34,6 +34,8 @@
 
 **Технологии:** Power BI, BI-аналитика, визуализация данных, KPI, интерактивные фильтры.
 
+![Дашборд анализа работы филиалов](images/powerbi-branches.png)
+
 [Посмотреть скриншот дашборда](https://drive.google.com/file/d/1G_iDcSnfOaenDVBCwEpYQKc7LQddawhb/view?usp=sharing)
 
 ### 3. [Анализ продаж и построение дашборда в Excel](materials/excel-sales-dashboard.xlsx)
